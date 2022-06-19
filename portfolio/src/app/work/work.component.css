@@ -1,0 +1,13 @@
+#resumeFormat h4{
+    color:rgb(80, 153, 118);
+    font-weight: bolder; 
+    display: inline;
+}
+#resumeFormat p{
+    font-style: italic;
+    display: inline;
+}
+
+*{
+    color:rgb(57, 44, 1);
+}
