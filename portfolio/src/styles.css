@@ -1,1 +1,42 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+h1 {
+    color: rgb(71, 181, 82);
+    font-family: monospace;
+    font-variant: small-caps;
+    font-size: 250%;
+    line-height: 30%;
+    text-align: center;
+    margin-bottom: auto;
+  }
+
+  .description{
+    margin-left: 2em;
+  }
+
+  a{
+    color: rgb(179, 111, 23);
+    font-weight: normal;
+    font-family: monaco, Consolas, "Lucida Console", monospace;
+   }
+  h2, h3 {
+    color: rgb(80, 153, 118);
+    font-family: monaco, Consolas, "Lucida Console", monospace;
+    font-weight: bold;
+    text-align: center;
+  }
+  body {
+    margin: 2em;
+    background-color: rgb(228, 199, 189);
+  }
+  body, input[type="text"], button {
+    color: rgb(80, 153, 118);
+    font-family: Cambria, Georgia, serif;
+  }
+
+  /* everywhere else */
+  * {
+    font-family: monaco, Consolas, "Lucida Console", monospace;
+    font-size: 1.2rem;
+  }
+
